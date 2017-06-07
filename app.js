@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = app => {
-    app.view.use('rax', require('./lib/view'));
+  app.view.use('rax', require('./lib/view'));
 };

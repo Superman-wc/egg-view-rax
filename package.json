@@ -1,6 +1,6 @@
 {
   "name": "egg-view-rax",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "egg view plugin for rax",
   "eggPlugin": {
     "name": "rax",
@@ -69,12 +69,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-view-react.git"
+    "url": "git+https://github.com/Superman-wc/egg-view-rax.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/Superman-wc/egg-view-rax/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-view-react-dom#readme",
-  "author": "Superman-wc <atian25@qq.com>",
+  "homepage": "https://github.com/Superman-wc/egg-view-rax#readme",
+  "author": "Superman-wc <bainx@vip.qq.com>",
   "license": "MIT"
 }
